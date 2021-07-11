@@ -6,5 +6,35 @@ Você aprenderá os conceitos de desenvolvimento de software para criação de s
 
 # Conteúdo do Bootcamp
 
-- [ ] Bem-vindo à DIO | <a href="https://certificates.digitalinnovation.one/FC383395" target="_blank"><button>Certificado</button></a>
-- [ ] 
+- [x] Bem-vindo à DIO  |  <a href="https://certificates.digitalinnovation.one/FC383395" target="_blank">Certificado</a>
+- [x] Boas-vindas ao Bootcamp LocalizaLabs React Developer  |  <a href="https://certificates.digitalinnovation.one/4655191F" target="_blank">Certificado</a>
+- [x] Lógica de Programação Essencial |  <a href="https://certificates.digitalinnovation.one/E652CC53" target="_blank">Certificado</a>
+  - [x] Introdução à lógica e à programação
+  - [x] Introdução ao Portugol
+- [ ] Aprenda o que são Estrutura de Dados e Algoritmos
+- [ ] Introdução ao Git e ao GitHub
+- [ ] Introdução a criação de websites com HTML5 e CSS3
+- [ ] JavaScript ES6 essencial
+- [ ] Programação para internet com JavaScript
+- [ ] Desenvolvimento avançado com JavaScript ES6
+- [ ] Recriando a Interface do Netflix
+- [ ] Resolvendo Desafios de Código em Javascript
+- [ ] Iniciando Desafios em JavaScript
+- [ ] Introdução ao ReactJS
+- [ ] Trabalhando com Componentes em React
+- [ ] Desenvolvimento de aplicações para internet com ReactJS
+- [ ] Criando um site para encontrar restaurantes usando Google Maps que consulta API do Google
+- [ ] Introdução aos React Hooks
+- [ ] Desafios Aritméticos em JavaScript
+- [ ] Trabalhando com States & Effects no ReactJs
+- [ ] Práticas avançadas em projetos com ReactJS
+- [ ] Como gerenciar o estado das aplicações com Redux
+- [ ] Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces
+- [ ] Criando um front-end totalmente componentizado na prática com ReactJS
+- [ ] Desafios Matemáticos em JavaScript
+- [ ] Criando uma aplicação ReactJS de notícias utilizando PWA
+- [ ] Testes unitários com React e Jest
+
+# Referências
+
+- https://digitalinnovation.one/
