@@ -11,7 +11,10 @@ Você aprenderá os conceitos de desenvolvimento de software para criação de s
 - [x] Lógica de Programação Essencial |  <a href="https://certificates.digitalinnovation.one/E652CC53" target="_blank">Certificado</a>
   - [x] Introdução à lógica e à programação
   - [x] Introdução ao Portugol
-- [ ] Aprenda o que são Estrutura de Dados e Algoritmos
+- [x] Aprenda o que são Estrutura de Dados e Algoritmos | <a href="https://certificates.digitalinnovation.one/A7B9CFFF" target="_blank">Certificado</a>
+  - [x] Conceitos iniciais sobre estrutura de dados, arrays e registro
+  - [x] Entenda o que são Listas, Pilhas e Filas
+  - [x] Estruturas de dados do tipo Árvore, Tabela Hash e Grafos
 - [ ] Introdução ao Git e ao GitHub
 - [ ] Introdução a criação de websites com HTML5 e CSS3
 - [ ] JavaScript ES6 essencial
