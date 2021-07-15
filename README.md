@@ -15,7 +15,14 @@ Você aprenderá os conceitos de desenvolvimento de software para criação de s
   - [x] Conceitos iniciais sobre estrutura de dados, arrays e registro
   - [x] Entenda o que são Listas, Pilhas e Filas
   - [x] Estruturas de dados do tipo Árvore, Tabela Hash e Grafos
-- [ ] Introdução ao Git e ao GitHub
+- [x] Introdução ao Git e ao GitHub | <a href="https://certificates.digitalinnovation.one/FDDB10F1" target="_blank">Certificado</a>
+  - [x] Introdução ao Git
+  - [x] Navegação via command line interface e instalação
+  - [x] Entendendo como o Git funciona por baixo dos panos
+  - [x] Primeiros comandos com Git
+  - [x] Ciclo de vida dos arquivos no Git
+  - [x] Introdução ao GitHub
+  - [x] Resolvendo conflitos
 - [ ] Introdução a criação de websites com HTML5 e CSS3
 - [ ] JavaScript ES6 essencial
 - [ ] Programação para internet com JavaScript
