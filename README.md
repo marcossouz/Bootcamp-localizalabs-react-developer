@@ -23,7 +23,15 @@ Você aprenderá os conceitos de desenvolvimento de software para criação de s
   - [x] Ciclo de vida dos arquivos no Git
   - [x] Introdução ao GitHub
   - [x] Resolvendo conflitos
-- [ ] Introdução a criação de websites com HTML5 e CSS3
+- [x] Introdução a criação de websites com HTML5 e CSS3 | <a href="https://certificates.digitalinnovation.one/31BC49E0" target="_blank">Certificado</a>
+  - [x] Introdução ao curso de HTML
+  - [x] Entendendo o que é semântica
+  - [x] Como usar textos e links em HTML
+  - [x] Como inserir imagens em seu site
+  - [x] Como organizar listas com HTML
+  - [x] Introdução e conceitos básicos do CSS3
+  - [x] Estilizando elementos, textos e listas
+  - [x] Dimensão e alinhamento
 - [ ] JavaScript ES6 essencial
 - [ ] Programação para internet com JavaScript
 - [ ] Desenvolvimento avançado com JavaScript ES6
