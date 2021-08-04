@@ -33,6 +33,10 @@ Você aprenderá os conceitos de desenvolvimento de software para criação de s
   - [x] Estilizando elementos, textos e listas
   - [x] Dimensão e alinhamento
 - [ ] JavaScript ES6 essencial
+  - [ ] Introdução ao ES6
+  - [ ] Tipos, variáveis, operadores, condicionais e repetição em JavaScript ES6
+  - [ ] Orientação a objetos e Design Patterns com a linguagem ES6
+  - [ ] Manipulação e iteração de arrays
 - [ ] Programação para internet com JavaScript
 - [ ] Desenvolvimento avançado com JavaScript ES6
 - [ ] Recriando a Interface do Netflix
