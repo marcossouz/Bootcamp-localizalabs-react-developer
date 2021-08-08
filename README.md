@@ -35,7 +35,7 @@ Você aprenderá os conceitos de desenvolvimento de software para criação de s
 - [ ] JavaScript ES6 essencial
   - [x] Introdução ao ES6
   - [x] Tipos, variáveis, operadores, condicionais e repetição em JavaScript ES6
-  - [ ] Orientação a objetos e Design Patterns com a linguagem ES6
+  - [x] Orientação a objetos e Design Patterns com a linguagem ES6
   - [ ] Manipulação e iteração de arrays
 - [ ] Programação para internet com JavaScript
 - [ ] Desenvolvimento avançado com JavaScript ES6
