@@ -32,11 +32,11 @@ Você aprenderá os conceitos de desenvolvimento de software para criação de s
   - [x] Introdução e conceitos básicos do CSS3
   - [x] Estilizando elementos, textos e listas
   - [x] Dimensão e alinhamento
-- [ ] JavaScript ES6 essencial
+- [x] JavaScript ES6 essencial
   - [x] Introdução ao ES6
   - [x] Tipos, variáveis, operadores, condicionais e repetição em JavaScript ES6
   - [x] Orientação a objetos e Design Patterns com a linguagem ES6
-  - [ ] Manipulação e iteração de arrays
+  - [x] Manipulação e iteração de arrays
 - [ ] Programação para internet com JavaScript
 - [ ] Desenvolvimento avançado com JavaScript ES6
 - [ ] Recriando a Interface do Netflix
