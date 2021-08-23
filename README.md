@@ -6,16 +6,16 @@ Você aprenderá os conceitos de desenvolvimento de software para criação de s
 
 # Conteúdo do Bootcamp
 
-- [x] Bem-vindo à DIO  |  <a href="https://certificates.digitalinnovation.one/FC383395" target="_blank">Certificado</a>
+- [x] Bem-vindo à DIO  | | <a href="https://certificates.digitalinnovation.one/FC383395" target="_blank">Certificado</a>
 - [x] Boas-vindas ao Bootcamp LocalizaLabs React Developer  |  <a href="https://certificates.digitalinnovation.one/4655191F" target="_blank">Certificado</a>
-- [x] Lógica de Programação Essencial |  <a href="https://certificates.digitalinnovation.one/E652CC53" target="_blank">Certificado</a>
+- [x] Lógica de Programação Essencial | | <a href="https://certificates.digitalinnovation.one/E652CC53" target="_blank">Certificado</a>
   - [x] Introdução à lógica e à programação
   - [x] Introdução ao Portugol
-- [x] Aprenda o que são Estrutura de Dados e Algoritmos | <a href="https://certificates.digitalinnovation.one/A7B9CFFF" target="_blank">Certificado</a>
+- [x] Aprenda o que são Estrutura de Dados e Algoritmos | | <a href="https://certificates.digitalinnovation.one/A7B9CFFF" target="_blank">Certificado</a>
   - [x] Conceitos iniciais sobre estrutura de dados, arrays e registro
   - [x] Entenda o que são Listas, Pilhas e Filas
   - [x] Estruturas de dados do tipo Árvore, Tabela Hash e Grafos
-- [x] Introdução ao Git e ao GitHub | <a href="https://certificates.digitalinnovation.one/FDDB10F1" target="_blank">Certificado</a>
+- [x] Introdução ao Git e ao GitHub | | <a href="https://certificates.digitalinnovation.one/FDDB10F1" target="_blank">Certificado</a>
   - [x] Introdução ao Git
   - [x] Navegação via command line interface e instalação
   - [x] Entendendo como o Git funciona por baixo dos panos
@@ -23,7 +23,7 @@ Você aprenderá os conceitos de desenvolvimento de software para criação de s
   - [x] Ciclo de vida dos arquivos no Git
   - [x] Introdução ao GitHub
   - [x] Resolvendo conflitos
-- [x] Introdução a criação de websites com HTML5 e CSS3 | <a href="https://certificates.digitalinnovation.one/31BC49E0" target="_blank">Certificado</a>
+- [x] Introdução a criação de websites com HTML5 e CSS3 | | <a href="https://certificates.digitalinnovation.one/31BC49E0" target="_blank">Certificado</a>
   - [x] Introdução ao curso de HTML
   - [x] Entendendo o que é semântica
   - [x] Como usar textos e links em HTML
@@ -32,14 +32,17 @@ Você aprenderá os conceitos de desenvolvimento de software para criação de s
   - [x] Introdução e conceitos básicos do CSS3
   - [x] Estilizando elementos, textos e listas
   - [x] Dimensão e alinhamento
-- [x] JavaScript ES6 essencial <a href="https://certificates.digitalinnovation.one/060AE1CF">certificado</a>
+- [x] JavaScript ES6 essencial | | <a href="https://certificates.digitalinnovation.one/060AE1CF">certificado</a>
   - [x] Introdução ao ES6
   - [x] Tipos, variáveis, operadores, condicionais e repetição em JavaScript ES6
   - [x] Orientação a objetos e Design Patterns com a linguagem ES6
   - [x] Manipulação e iteração de arrays
-- [ ] Programação para internet com JavaScript
+- [x] Programação para internet com JavaScript | | <a href="https://certificates.digitalinnovation.one/B5378D82"> Certificado </a>
+  - [x] Introdução ao JavaScript
+  - [x] Desenvolva páginas web com JavaScript
 - [ ] Desenvolvimento avançado com JavaScript ES6
-- [ ] Recriando a Interface do Netflix
+- [x] Recriando a Interface do Netflix | | <a href="https://certificates.digitalinnovation.one/BD258302"> Certificado </a>
+  - [x] Parte 01 a 09
 - [ ] Resolvendo Desafios de Código em Javascript
 - [ ] Iniciando Desafios em JavaScript
 - [ ] Introdução ao ReactJS
