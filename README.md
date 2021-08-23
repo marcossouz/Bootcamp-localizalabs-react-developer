@@ -43,6 +43,7 @@ Você aprenderá os conceitos de desenvolvimento de software para criação de s
 - [ ] Desenvolvimento avançado com JavaScript ES6
 - [x] Recriando a Interface do Netflix | | <a href="https://certificates.digitalinnovation.one/BD258302"> Certificado </a>
   - [x] Parte 01 a 09
+  - [x] <a href="https://github.com/marcossouz/HTML-Web-Developer/tree/main/netflix-clone">Entrega do projeto</a>
 - [ ] Resolvendo Desafios de Código em Javascript
 - [ ] Iniciando Desafios em JavaScript
 - [ ] Introdução ao ReactJS
